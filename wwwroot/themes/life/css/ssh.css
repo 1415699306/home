@@ -1,0 +1,32 @@
+@charset "utf-8";
+*{ margin:0; padding:0;}
+ul,li{list-style-type:none; margin:0; padding:0;}
+body{ width:100%;background:url(../images/forum.jpg); }
+.main{width:1252px; height:auto; margin:15px auto;}
+.s_banner{ width:1252px; margin:15px auto;}
+.Jewelry,.Car,.Wristwatch,.Art,.Mansion,.Vacation,.Wine,.Apparel,.Cosmetology,.Home,.Sport,.cigarettes,.Brand,.Gallery{ width:1252px; background:#fff;/*margin:10px auto;*/ margin-bottom:10px;}
+.Jewelry h3,.Car h3,.Wristwatch h3,.Art h3,.Mansion h3,.Vacation h3,.Wine h3,.Apparel h3,.Cosmetology h3,.Home h3,.Sport h3,.cigarettes h3,.Brand h3,.Gallery h3{ padding: 10px;color: #232b38;border-bottom: 5px solid #232b38;font-size: 24px;font-weight: bold;letter-spacing: -1px;}
+ a{ text-decoration:none;}
+/*span{float:right; padding:10px; font-size:12px; color:#4c4948; background:url(../images/ss_07.jpg) no-repeat right; margin-right:16px;}*/
+.Jewelry h3 em{ width:140px; height:38px;background:url(../images/ss.gif) 0 -517px; float:left;}
+.content{ width:1224px;margin:0 auto;padding:0 0 17px 20px;}
+.content ul.list{ margin-top:17px;}
+.content ul.list li{ width:287px; background:#f2f2f2; float:left; margin-right:18px; text-align:center; padding-bottom:10px; line-height:22px;}
+.content ul.list li strong{ font-size:14px; color:#242c39; font-weight:bold; display:block; padding:10px 10px 0 10px;}
+.content ul.list li p{ width:257px; padding:0 15px; color:#4c4948;}
+.content ul.list li a{ color:#0d5b81; float:right; padding:15px;}
+.content ul.list li img{ display:block; text-align:center; margin:10px auto;}
+.Car h3 em{ width:140px; height:38px;background:url(../images/ss.gif) 0 -478px; float:left;}
+.Wristwatch h3 em{ width:140px; height:38px;background:url(../images/ss.gif) 0 -438px; float:left;}
+.Art h3 em{ width:140px; height:38px;background:url(../images/ss.gif) 0 -399px; float:left;}
+.Mansion h3 em{ width:140px; height:38px;background:url(../images/ss.gif) 0 -360px; float:left;}
+.Vacation h3 em{ width:140px; height:38px;background:url(../images/ss.gif) 0 -320px; float:left;}
+.Wine h3 em{ width:140px; height:38px;background:url(../images/ss.gif) 0 -280px; float:left;}
+.Apparel h3 em{ width:140px; height:38px;background:url(../images/ss.gif) 0 -240px; float:left;}
+.Cosmetology h3 em{ width:140px; height:38px;background:url(../images/ss.gif) 0 -200px; float:left;}
+.Home h3 em{ width:140px; height:38px;background:url(../images/ss.gif) 0 -160px; float:left;}
+.Sport h3 em{ width:140px; height:38px;background:url(../images/ss.gif) 0 -120px; float:left;}
+.cigarettes h3 em{ width:140px; height:38px;background:url(../images/ss.gif) 0 -80px; float:left;}
+.Brand h3 em{ width:140px; height:38px;background:url(../images/ss.gif) 0 -40px; float:left;}
+.Gallery h3 em{ width:140px; height:38px;background:url(../images/ss.gif); float:left;}
+h3 span{float:right; padding:10px; font-size:12px; color:#4c4948; background:url(../images/ss_07.jpg) no-repeat right; margin-right:16px;}

@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+ul li{list-style-type:none;}
+body{ font-size:12px;}
+.main{ width:1252px; margin:0 auto; clear:both; margin-top: 20px;}
+.g_sidebar{ width:925px; float:left;}
+.g_Information,.Platform, .persom{ width:925px;background:#fff; margin-top:10px;padding-bottom:30px;overflow:hidden; zoom:1; }
+.g_Information{ padding-bottom:0;}
+.g_Information h1,.Platform h1, .persom h1{height:38px;background:url(../images/s.gif) 0 -39px;}
+.g_Information h1 span, .Platform h1 span, .persom h1 span,.active h1 span, .Activity h1 span, .method h1 span,.g_right .content h3 em{ width:137px;height:38px; background-image:url(../images/s.gif); background-repeat:no-repeat;font-size:20px; font-style:italic; color:#fff; display:block; line-height:38px; padding-left:10px; font-family:"微软雅黑"; font-weight:normal;}
+.g_Information h1 em, .Platform h1 em, .persom h1 em{ width: 86px;height:38px;background:url(../images/ss_07.jpg) no-repeat right center; float:right; margin-right:10px; line-height:38px; font-family:"宋体";}
+.g_Information h1 em a, .Platform h1 em a, .persom h1 em a{height:38px; line-height:38px;display:block; padding:0 10px;}
+.Information_left{ width:286px; float:left; padding:20px 20px 20px 30px;}
+.Information_left ul.left_list{ width:278px; margin-top:20px; margin-left:8px;}
+ul.left_list li{ color:#4c4948; height:20px; line-height:20px;}
+.Information_right{ margin-top:10px;}
+.Information_right ul.right_list{ width:100%; clear:both; }
+.Information_right ul.right_list li{ border-bottom:1px solid #c4c4c4;margin-bottom:10px; clear:both; float:left; width:925px;}
+.Information_right ul.right_list li em{ width:83px; height:83px; display:block; padding:0 20px 10px 10px;float:left;}
+
+.Information_right ul.right_list li.end{ border-bottom:none;margin-bottom:none;}
+.Platform_left, .persom_left{ width:925px; padding-bottom:30px; clear:both;}
+.Platform ul.Platform_left_list{ width:587px;float:left;}
+.Platform ul.Platform_left_list li{padding: 0 17px 30px 0;float: left;}
+.Platform ul.Platform_left_list li a img{ width:100px; height:100px;}
+.Platform  ul.Platform_left_list li p{ width:100px;height:38px; text-align:center; color:#fff; background:#232b38; line-height:38px; margin:0px;}
+.Platform  ul.Platform_left_list li p a{color:#fff;}
+.Platform  ul.right_list{ width:288px; float:right; margin-top:20px; }
+.Platform  ul.right_list li{color:#4c4948; height:28px; line-height:28px; list-style-type:disc; list-style-position:inside;  clear:both;}
+.persom ul.left_list{ width:400px;padding:20px 20px 0 30px; _padding:20px 0 0 30px; float:left;}
+.persom ul.left_list li{ _width:300px;width:400px;color:#4c4948; height:28px; line-height:28px;  padding-right:20px; clear:both;background:url(../images/ss_07.jpg) no-repeat left center; padding-left:10px;}
+.persom ul.left_list li a{ line-height:28px;}
+.gb_wrap{ width:925px; clear:both;}
+
+.g_banner{ width:925px; height:380px;}
+.g_right{width:312px; float:right;}
+.active, .Activity, .method,.g_right .content{ width:312px; background:#fff; padding-bottom:10px; overflow:hidden; zoom:1;}
+.active h1, .Activity h1, .method h1,.g_right .content h3{ width:312px; height:38px; background:url(../images/s.gif) 0 -39px;}
+.active h1 em,.Activity h1 em, .method h1 em{ width:86px;height:38px;background:url(../images/ss_07.jpg) no-repeat right center; float:right; margin-right:10px; line-height:38px; font-family:"宋体";}
+.active h1 em a, .Activity h1 em a, .method h1 em a{ height:38px; line-height:38px;display:block; padding:0 10px;}
+.active h2 { width:281px; margin:0 auto; border-bottom:1px solid #c4c4c4;}
+.active h2 img{ width:281px; height:160px; text-align:center;padding:10px 0; display:block; margin:0 auto;}
+.active h2 strong{ height:25px; line-height:25px; }
+.active h2 p{font-weight:normal; line-height:20px;}
+.active h2 p span{ color:#ff003c; float:right;}
+.active a{font-size: 12px; font-weight: bold;}
+.active ul.activ_list li{ color:#4c4948; height:20px; line-height:20px; list-style-type:disc; list-style-position:inside;}
+.active li.active_list{padding: 5px 10px 0 15px;}
+.g_wrap{ width:312px; margin:10px auto;}
+.Activity ul.Activity_list{ margin:10px 0 0 10px;}
+.g_right .content ul{ margin:10px;}
+.Activity ul.Activity_list li{float:left; overflow: hidden; font-size:12px; width: 290px;float: left;}
+.Activity ul.Activity_list li span{width:200px;float: left;line-height: 21px;color:#717171; font-size: 12px;}
+.Activity ul.Activity_list li a{ line-height:26px;font-weight: bold;}
+.Activity ul.Activity_list li em{ width:80px; line-height:80px; display:block; padding:5px; float:left;}
+.method_list{ width:282px; margin:20px 0 0 20px;}
+.community_main{clear: both;
+overflow: hidden;
+margin-bottom: 20px;}
+

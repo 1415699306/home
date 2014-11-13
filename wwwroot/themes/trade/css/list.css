@@ -1,0 +1,27 @@
+.main{ width:1252px; margin:20px auto;}
+.project{ width:916px; float:right;float:left; background:#fff; margin-top:20px;}
+.project h3{ height:25px;color:#232b38;border-bottom:5px solid #232b38;font-size:24px;padding:10px;}
+.project_view {
+width: 916px;
+overflow: hidden;
+zoom: 1;
+margin: 20px 0;}
+.project_view ul.list{display: block;overflow: hidden;clear: both; padding:0 20px;}
+.project_view ul.list li{ width:175px;float:left;text-align:center;color:#444;height: 121px;padding-bottom: 15px;}
+.project_view ul.list li img{ width:149px; height:84px; display:block; margin:10px auto;}
+.project_view ul.list em{width:149px;text-align: center;float: left; overflow:hidden;}
+.project_view ul.list li a{ text-decoration:none; color:#444;}
+.project_view ul.list li .end{ margin-right:0px;}
+.project_wrap{ width:916px; background:#fff;border-top:1px solid #999; overflow:hidden; zoom:1; margin-bottom:20px;}
+.project_wrap ul.menu{ margin:20px 20px;}
+.project_wrap ul.menu li{float:left; overflow:hidden; font-size:12px;  border-right:1px solid #ccc; display:block; padding:5px 15px; color:#999;}
+.project_wrap ul.menu li.menu_1{ color:#333;}
+.project_wrap ul.menu li.line{ margin-bottom:8px;}
+.project_wrap ul.menu li.last{ border-right:none;}
+.sidebar{ width:310px; /*border:1px solid #ccc;*/float:right; margin:20px 0;background:#fff; }
+.sidebar h2{ width:290px; height:40px; background:#fff; font-size:16px; color:#232c3b; line-height:40px; padding-left:20px; border-bottom:2px solid #333;}
+.sidebar a{ width:280px; height:121px; display:block; margin:10px auto;}
+.sidebar ul.sidebar_list{margin:10px 0 8px 5px; }
+/*.sidebar ul.sidebar_list img{ width:280px; height:121px; margin:0 auto;}*/
+.sidebar ul.sidebar_list li{ float:left; padding:6px 6px 0 6px; }
+.sidebar ul.sidebar_list li span{ line-height:24px;}

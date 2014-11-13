@@ -1,0 +1,130 @@
+
+.subDiv{ width:855px;}
+.subDiv .caption{ color:#202835; font-weight:bold; font-size:30px; font-family:宋体;}
+.subDiv h1{ color:#444; font-weight:bold; font-size:14px;}
+.subDiv h1 span{ color:#cc0202; font-family:"微软雅黑"; font-size:14px;}
+.subDiv h1 span i{ color:#cc0202;font-size:24px; font-style:normal; padding:0 5px;}
+.subDiv ul.Report{ margin:10px 0 30px 0; border-top:1px solid #e7e6e4; width:854px;}
+.subDiv ul.Report li{ color:#444; font-size:14px; line-height:24px;padding-top: 15px; width:854px;}
+.row .btn,.subDiv .adrees .checked .alter .btn,.FloatLeft .subDiv .buttom .save{width: 72px; height:25px;background: url(/themes/usercenter/images/public.jpg) no-repeat;background-position: 0 -221px;color: #fff; border:none; text-align:center; clear:both; cursor:pointer;}
+.subDiv .zfb{ margin-left:90px; width:127px; height:38px; background:url(/themes/usercenter/images/bank.jpg); background-position:0 -392px;}
+.subDiv .adrees{ width:854px; background:#fffbe1; border-bottom:1px dashed #febf90;border-top:1px dashed #febf90; padding:10px; overflow:hidden;}
+.subDiv .adrees span.title{ float:left;width: 130px;text-align:right; padding-right:10px;}
+.subDiv .adrees .center .checked{float: left;width:660px; _width:680px; margin-bottom:10px; }
+.subDiv .adrees .center{ float:left;  width:700px;}
+.subDiv .adrees .center .checked ul{cursor: pointer; float:left;width:565px;padding:5px 0;border:1px solid #ccc; background: #fff; overflow:hidden; position:relative;}
+.subDiv .adrees .center .checked ul li{ float:left; width:175px; color:#444; padding-left:10px;}
+.subDiv .adrees .center .checked ul li.last{ width:300px;}
+.subDiv .adrees .center .checked ul li i{ font-style:normal; padding-right:20px;}
+.subDiv .adrees .center .checked ul li span{float: left;color: #444;padding-right: 0px; height:30px; line-height:30px; text-align:left;}
+
+.subDiv .adrees .checked .alter{ float:left; width:80px;margin-top:30px;}
+.subDiv .adrees .checked .alter a{width: 80px; padding-left:20px;display: block;line-height: 20px; color:#0d608b;}
+.subDiv .adrees .center .define { width:545px;border:1px dashed #ccc; background:#fff; overflow:hidden; padding:10px; float:left;}
+.subDiv .adrees .center .define .row1,.subDiv .adrees .row1{ float:left; padding:5px 0;}
+.subDiv .adrees .center .define .row1 .Forname,.subDiv .adrees .checked ul li i{ color:#717171; width:40px; height:30px; line-height:30px; text-align:center; float:left;}
+
+.subDiv .adrees .center .define .row1 .inputbox{ float:left;width:135px; height:30px; line-height:30px;border:1px solid #e5e5e5;}
+.subDiv .adrees .center .define .row1 .inputbox_1{ float:left;height:24px; line-height:24px;*height:20px; *line-height:20px;width:256px;}
+.subDiv .adrees .center .define .row1 .selected { float:left;
+width: 105px;
+height: 24px;
+line-height:24px;
+margin-right: 12px;}
+.subDiv .adrees .center .checked .alter .btn{ margin-left:20px; display:inline;}
+.subDiv .adrees .remark{width: 565px;
+height: 28px;
+border: 1px solid #e5e5e5;}
+.FloatLeft .subDiv  ul.banklist { overflow:hidden;}
+.FloatLeft .subDiv  ul.banklist li{width:190px; height:27px;float:left;background-image: url(/themes/usercenter/images/bank.jpg); background-repeat:no-repeat; text-indent:-9999px; cursor:pointer; margin:5px 0;}
+.FloatLeft .subDiv  ul.banklist li input.Single_box{ float:left; height:27px; line-height:27px;}
+.FloatLeft .subDiv  ul.banklist li.bank_1{ background-position:25px 0;}
+.FloatLeft .subDiv  ul.banklist li.bank_2{ background-position:25px -140px;}
+.FloatLeft .subDiv  ul.banklist li.bank_3{ background-position:25px -280px;}
+.FloatLeft .subDiv  ul.banklist li.bank_4{ background-position:25px -112px;}
+.FloatLeft .subDiv  ul.banklist li.bank_5{ background-position:25px -168px;}
+.FloatLeft .subDiv  ul.banklist li.bank_6{ background-position:25px -28px;}
+.FloatLeft .subDiv  ul.banklist li.bank_7{ background-position:25px -308px;}
+.FloatLeft .subDiv  ul.banklist li.bank_8{ background-position:25px -56px;}
+.FloatLeft .subDiv  ul.banklist li.bank_9{ background-position:25px -196px;}
+.FloatLeft .subDiv  ul.banklist li.bank_10{ background-position:25px -224px;}
+.FloatLeft .subDiv  ul.banklist li.bank_11{ background-position:25px -336px;}
+.FloatLeft .subDiv  ul.banklist li.bank_12{ background-position:25px -84px;}
+.FloatLeft .subDiv  ul.banklist li.bank_13{ background-position:25px -364px;}
+.FloatLeft .subDiv  ul.banklist li.bank_14{ background-position:25px -252px;}
+.FloatLeft .subDiv .buttom{ margin-top:20px;width: 434px; clear:both;}
+.FloatLeft .subDiv .buttom .save {width: 72px;height: 25px;background: url(/themes/usercenter/images/public.jpg) no-repeat;background-position: 0 -221px;border: none;cursor: pointer;margin-right: 17px;display: block;float: left; cursor:pointer;}
+
+.FloatLeft .subDiv .choose {float: left;width: 90px;height: 30px;line-height: 30px; clear:both;_height:148px;}
+.FloatLeft .subDiv .choose_1{ _height:30px;}
+.RightFloat .listdiv .listTop {
+width: 290px;
+height: 13px;
+background: url(images/dream_26.jpg) no-repeat;
+}
+.RightFloat .listdiv .list {
+width: 288px;
+border-left: 1px solid #c4c4c4;
+border-right: 1px solid #c4c4c4;
+overflow: hidden;}
+.RightFloat .listdiv .list .pic span.float {
+position: absolute;
+top: 124px;
+width: 45px;
+height: 19px;
+background: #38a3db;
+line-height: 19px;
+color: #fff;
+display: block;
+font-size: 12px;
+text-align: center;
+left: 239px;}
+.RightFloat .listdiv .list .pic {
+width: 288px;
+margin: 0 auto;
+text-align: center;
+position: relative;}
+.RightFloat .listdiv .list .text {
+width: 265px;
+margin: 0 auto;
+border-bottom: 1px solid #e7e6e4;
+padding-bottom: 10px;}
+.RightFloat .listdiv .list .text h2 {
+font-size: 14px;
+color: #444;
+line-height: 30px;
+text-align: center;}
+.RightFloat .listdiv .list .view-bar{width: 268px;
+height: 8px;
+background: #d5d5d5;
+border-radius: 20px;
+margin: 14px auto;}
+.RightFloat .listdiv .list .view-bar .speed {
+background: #39a4da;
+width: 20%;
+height: 8px;
+border-radius: 20px;
+}
+.RightFloat .listdiv .list .textList{width: 268px;
+margin: 0 auto;
+overflow: hidden;}
+.RightFloat .listdiv .list .textList ul.complete {
+float: left;
+width: 30%;
+text-align: left;}
+.RightFloat .listdiv .list .textList ul.complete li.f_size,.RightFloat .listdiv .list .textList ul li.f_size{font-size: 18px;
+color: #707070;
+font-family: Arial;
+}
+.RightFloat .listdiv .list .textList ul.support {
+float: left;
+width: 50%;
+text-align: left;}
+.RightFloat .listdiv .list .textList ul.date {
+float: left;
+text-align: right;}
+.RightFloat .listdiv .listBottom {
+width: 290px;
+height: 13px;
+background: url(images/dream_32.jpg) no-repeat;}
+.hidden_id{ display:none;}

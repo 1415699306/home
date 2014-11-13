@@ -1,0 +1,54 @@
+.bigDiv .row{ margin:10px 0; float: left; width:100%;}
+.row label{ height:32px; line-height:32px; float:left; text-align:left; width:70px; margin-right:10px; color:#444;}
+.bigDiv .buttom {margin-top: 20px;width: 434px;}
+.bigDiv .row input {height: 25px;line-height: 25px;}
+.MainDiv .bigDiv span.Preview{ width:100px; height:30px; background:url(/themes/usercenter/images/public.jpg) no-repeat; background-position:0 -300px; line-height:30px; color:#fff; display:block; float:right;text-indent: 30px; cursor:pointer; margin-top:20px;margin-left: 40px;}
+.MainDiv .bigDiv span.Preview a{color: #fff; line-height:30px;}
+.MainDiv .borline{ border-bottom:1px solid #ededed; padding-bottom:40px;}
+.MainDiv .bigDiv h3{color:#444; font-size:12px; line-height:30px; font-size:14px; padding:10px 0;}
+.MainDiv .bigDiv p{ color:#717171; height:24px; line-height:24px; font-size:14px; margin:0; padding:0;}
+.MainDiv .bigDiv .Topbuttom {text-align:center; margin:40px auto; overflow:hidden;}
+.MainDiv .bigDiv .Topbuttom input{ border:none; cursor:pointer;height:25px; line-height:25px;text-align:center;}
+.MainDiv .bigDiv .Topbuttom .pre{ float:left;width:77px; height:25px; line-height:25px; background:url(/themes/usercenter/images/public.jpg) no-repeat; background-position:0 -247px; color:#494949; margin-right:17px;}
+.MainDiv .bigDiv .Topbuttom .new{ float:left;width:100px;background:url(/themes/usercenter/images/public.jpg) no-repeat; background-position:0 -274px; margin-right:17px; }
+.MainDiv .bigDiv .Topbuttom .fornext{ float:left;width:72px; height:25px; line-height:26px;background:url(/themes/usercenter/images/public.jpg) no-repeat; background-position:0 -221px; color:#fff; }
+.MainDiv .bigDiv .form{ clear:both; border:1px solid #ededed; padding:20px; overflow:hidden;}
+.MainDiv .bigDiv .row .price{width: 107px;float: left; border:1px solid #e5e5e5;color:#000;}
+.MainDiv .bigDiv .row .textarea_1{ float:left;width: 588px;height: 108px;color: #a0a0a0;border: 1px solid #e5e5e5; color:#000;}
+.MainDiv .bigDiv .row .btn{width: 88px;height: 30px;line-height: 30px;background: url(/themes/usercenter/images/public.jpg) no-repeat;background-position: -22px -50px;border: none;display: block;color: #444;cursor: pointer;float: left;margin-right: 15px;}
+.MainDiv .bigDiv .row span{height: 30px;line-height: 30px;color: #444;}
+.MainDiv .bigDiv .row span.radio {padding-right: 10px; float:left;}
+.MainDiv .bigDiv .row span.text{height: 25px;line-height: 25px;float: left;
+padding-right:12px;}
+.MainDiv .bigDiv .row span.sum{height: 30px;line-height: 30px;display:inline-block;float: left;}
+.MainDiv .bigDiv .end{ width:100%;}
+.MainDiv .bigDiv .end .next{width: 110px;height: 29px;background: url(/themes/usercenter/images/public.jpg) no-repeat;background-position: 0 -90px;border: none;cursor: pointer;display: block;color: #fff;float: left;}
+.MainDiv .bigDiv .end .save{width: 88px;height: 30px;background-image: url(/themes/usercenter/images/public.jpg);background-position: -22px -50px;background-repeat: no-repeat;border: none;cursor: pointer;margin-right: 17px;display: block;float: left;color:#707070;}
+.MainDiv .bigDiv .end span{height: 30px;line-height: 30px;padding-left: 15px;color: #0d608b;}
+.MainDiv .bigDiv .BottomEnd em {color: #717171;float: right;font-style: normal;padding: 0 30px 10px 0;}
+.MainDiv .bigDiv .BottomEnd{clear: both;padding:40px 0;}
+.MainDiv .bigDiv .BottomEnd .returnlist ul.returnlistnormal li .tabText {padding: 0 10px;line-height: 18px;}
+.MainDiv .bigDiv .BottomEnd .buttom {padding:20px 0;width: 434px;margin: 0 auto; overflow:hidden;}
+#SWFUpload_0{border: 1px solid #000;padding: 5px 0;background: #ccc;color: white;float:left; }
+@media screen and (-webkit-min-device-pixel-ratio:0) {#SWFUpload_0{
+ height:20px;
+} } 
+.row span li input{float: left;}
+.row span li{ float:left;}
+.row span li label{line-height: 28px;width: auto;}
+.swfupload{position: relative;z-index: 500;}
+ #pic{clear: none;display: inline-block;margin: 10px 10px 5px 75px;overflow: hidden;width: 100%;}
+ #pic div {background: #e6e6e6;border-radius: 5px;margin: 0px 0px 0px 5px;padding: 7px 7px 7px 7px;height: 65px;float: left;overflow: hidden;}
+ #pic div .ui-popup-delete {float: left;background: url('/images/delete.png') no-repeat;width: 16px;height: 16px;overflow: hidden;margin: 0px 0px 0px 7px;text-indent: 2000px;display: block;background-position: 0 2px;}
+#pic div img {float: left;height: 65px;overflow: hidden;width:65px;}
+#pic div a:hover{background: url('/images/delete.png') no-repeat;background-position: 0 -22px;}
+.returnlist {margin-top: 10px;}
+.returnlistnormal{background: #f2f2f2;overflow: hidden;width: 100%;}
+.returnlist li{font-family: Arial;float: left;height: 40px;line-height: 40px;text-align: center;border-right: 1px solid #fff;}
+.returnlist li a{ padding:0 10px; display:inline-block; line-height:40px;}
+.errorMessage{line-height: 30px;
+float: left;
+padding-left: 25px;
+background: url(/themes/usercenter/images/icons-e5243ebf3d910e3b0022fab1ffb63a97.png) no-repeat 5px;
+width: 200px;
+height: 30px;}

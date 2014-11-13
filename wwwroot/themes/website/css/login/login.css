@@ -1,0 +1,159 @@
+@charset "utf-8";
+/* CSS Document */
+*{ 
+	margin:0;
+	padding:0;
+}
+body{ 
+  margin-bottom:0; 
+  margin-left:0; 
+  margin-right:0; 
+  margin-top:0; 
+  font-size:12px; font-family:"微软雅黑"; 
+  background:url(/images/bgq.jpg);
+}
+.wrap{ width:100%;background:url(../images/bg.jpg) repeat-x;}
+.login{ width:100%;
+ background:url(/images/login_01.jpg) repeat-x bottom;
+}
+ul{ list-style-type:none;}
+.header{ 
+	width:1200px; 
+	height:139px;
+/*	height:139px!important*/
+	margin:0 auto;
+	
+}
+.header a{ 
+	width:306px;
+	height:139px;
+	height:139px!important
+    display:inline;
+	float:left;
+	background:url(/images/login_03.gif);
+	text-indent:-9999px;
+	border:0;
+}
+.header div{
+	color:#626262;
+    float:right;
+	margin:90px 50px 0 0;
+	font-size:18px;
+
+	
+}
+.main{
+    width: 1250px;
+    margin: 0 auto;
+    clear: both;
+    display: block;
+    overflow: hidden;
+}
+.banner{ 
+	width:820px;
+	height:403px;
+	float:left;
+	margin:14px 0 23px 0;
+	cursor:pointer;
+}
+
+
+/*上圆角框通用设置样式，如果要运用多个不同颜色，以下6句不用重新变化--------------------------------*/
+.b1,.b2,.b3,.b4,.b5,.b6,.b7,.b8{
+	height:1px; 
+	font-size:1px; 
+	overflow:hidden; 
+	display:block;
+}
+.b1,.b8{
+	margin:0 5px;
+}
+.b2,.b7{
+	margin:0 3px;
+	border-right:2px solid;
+	 border-left:2px solid;
+}
+.b3,.b6{
+	margin:0 2px;
+	border-right:1px solid;
+	 border-left:1px solid;
+}
+.b4,.b5{
+	margin:0 1px;
+	border-right:1px solid; 
+	border-left:1px solid; 
+	height:2px;
+}
+.content {
+	border-right:1px solid;
+	border-left:1px solid;
+	overflow:hidden;
+}
+/*颜色方案一,蓝色边框----------------------------------------*/
+/*下面第一、二句决定边框颜色，第三句决定背景颜色*/
+/*边框色*/
+.login .b2,.login .b3,.login .b4,.login .b5,.login .b6,.login .b7,.login .content{
+	border-color:#acacac;
+}
+.login .b1,.login .b8{
+	background:#acacac;
+}
+/*背景色*/
+.login .b2,.login .b3,.login .b4,.login .b5,.login .b6,.login .b7,.login .content{
+	background:#fff;
+}
+.login{
+	width:370px;
+	height:403px;
+	margin:14px 0 0 0;
+	float:right;
+}
+.content{
+   width:368px;
+   height:390px;
+   clear:both;
+}
+.content_1{ padding:74px 0 0 78px;}
+.usename,.password{
+	height:29px;
+	margin:0 0 20px 0;
+	
+}
+.search_btn{ 
+	width:35px;
+	height:29px;
+	float:left;
+}
+.search_key{
+	width:176px;
+	height:29px!important; 
+	height:31px; 
+	line-height:29px;
+	background:url(/images/btn.jpg) no-repeat; 
+	float:left;
+	border:0; 
+	display:inline;
+	text-indent:5px;
+}
+.yanL{ width:62px; height:29px; background:url(/images/kua_15.jpg)no-repeat; float:left; margin:0 3px 20px 0;}
+.captcha{ width:62px; height:29px; color:#626262;/* text-align:center;*/line-height:29px; float:left; display:inline; }
+.yanC{ float:left; margin:0 6px 20px 3px; cursor:pointer;}
+.yanR{ height:29px; line-height:29px; color:#626262;float:left; display:inline;	margin:0 0 20px 0; cursor:pointer;}
+.submit{ float:left; margin:0 22px 0 0; clear:both; display:inline; float:left;}
+.content_1 span{ height:38px; line-height:38px; color:#1ba1e2; clear:both;}
+.content_1  a{ color:#1ba1e2;text-decoration:none; float:left; height:38px; line-height:38px;}
+.content_1  a:hover{color:#1ba1e2; text-decoration:underline;}
+.zhuce{ width:211px; height:29px;margin:20px 0 0 0;}
+/*#div span{ color:#1ba1e2;} 
+#div span a { color:#1ba1e2; text-decoration:none;} 
+#div span a:hover{ color:#1ba1e2; text-decoration:underline;} */
+.footer{ 
+	width:1200px; 
+	margin:0 auto;
+	/*clear:both;*/
+	background:url(/images/login_27.jpg) repeat-x;
+}
+.footer p{ width:1200px;font-size:12px; color:#626262; text-align:center;}
+.footer p a{ color:#626262; text-decoration:none;}
+.footer p a:hover{ color:#626262; text-decoration:underline;}
+p.bt1{ padding:20px 0 10px 0;}

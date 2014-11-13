@@ -1,0 +1,229 @@
+*{word-wrap:break-word;}
+/*body{background:#FFF;text-align:center;background:url('/themes/investment/images/background.png') repeat;}*/
+body,input,button,select,textarea{font:12px/1.5 Tahoma,'Simsun';color:#444;}
+textarea{resize:none;}
+body,ul,ol,li,dl,dd,p,h1,h2,h3,h4,h5,h6,form,fieldset,.pr,.pc{margin:0;padding:0;}
+table{empty-cells:show;border-collapse:collapse;}
+caption,th{text-align:left;font-weight:400;}
+ul li,.xl li{list-style:none;}
+h1,h2,h3,h4,h5,h6{font-size:1em;}
+em,cite,i{font-style:normal;}
+a{color:#333;text-decoration:none;}
+a:hover{text-decoration:underline;}
+a img{border:none;}label{cursor:pointer;}
+.investment .warp, .investment .header
+{width: 1230px;margin: 0 auto;}
+.investment .warp
+{background: #fff;text-align: left; clear:both; overflow:hidden;}
+.investment .header
+{height:180px;background:url('/themes/investment/images/topbar.png') no-repeat;}
+.investment .nav
+{height:38px;background:url('/themes/investment/images/global.gif') repeat-x;}
+.investment .topbar, .investment .topbar img
+{margin: auto;width: 1249px;border: 0;display: inline-block;}
+.investment .footer
+{clear: both;overflow: hidden;background:url('/themes/investment/images/global.gif') 0 -37px repeat-x;height: 160px;width: 100%;}
+.investment .footer, .investment .footer ul.link a, .investment .footer ul.copyright
+{color: #fff;}
+.footer ul.link a
+{padding:0 20px;}
+.investment .footer ul.link
+{margin: 40px auto 0 auto;width: 560px!important;width:600px;}
+.investment .footer ul.link li
+{float: left;}
+.investment .footer p.copyright
+{width: 100%;float: left;text-align: center;margin-top: 20px;}
+ul#nav
+{width: 980px;margin: 0 auto;line-height: 38px;font-size: 16px; font-weight: 400;clear: both;}
+ul#nav li
+{float: left; width: 85px;  text-align: center;position: relative;z-index: 200;}
+ul#nav li em
+{background:url('/themes/investment/images/global.gif') 0 -203px no-repeat;right: 0;position: absolute;top:0;z-index: 300;}
+ul#nav li a
+{color: #fff;}
+/*company样式*/
+.investment .company{clear: both;overflow: hidden;position: relative;z-index: 500;}
+.investment .company .company_list
+{margin: 25px auto!important;margin-left: 30px;width: 1200px;clear: both;overflow: hidden;}
+.investment .company .company_list .list, 
+.investment .company .company_list .video
+{float: left;}
+.investment .company .company_list .list
+{width: 730px;margin:0 auto;}
+.investment .company .company_list .video
+{background: url('/images/order/loading.gif') 50% 50% no-repeat;position: absolute;top: 50px;right: 80px!important;right:50px;}
+.investment .company .company_list .video .jwplayer
+{margin: 50px auto 20px auto;}
+.investment .company .company_list .video p
+{text-align: center;margin:0!important;margin-top: 30px;}
+.investment .company .company_list .content
+{padding: 20px 0 0 25px; background: url('/themes/investment/images/icon.gif') -52px 0px no-repeat;}
+.investment .company .company_list .content h3, 
+.investment .description .content h3,
+.investment .introduction .content h3,
+.investment .league .content h3,
+.investment .quote .content h3,
+.investment .message .content h3,
+.investment .advantage .content h3
+{ position:relative;width: 710px;height: 34px;clear: both;overflow: hidden;background: #d9d9d9;font-size: 16px;font-weight: bold;color: #fff;}
+.investment .company .company_list .content h3 span, 
+.investment .description .content h3 span,
+.investment .introduction .content h3 span,
+.investment .league .content h3 span,
+.investment .quote .content h3 span,
+.investment .message .content h3 span,
+.investment .advantage .content h3 span
+{line-height: 34px;padding-left: 10px;float: left;background: #c81812; color:#fff;}
+.investment .company .company_list .content h3 span em, 
+.investment .description .content h3 span em,
+.investment .introduction .content h3 span em,
+.investment .league .content h3 span em,
+.investment .quote .content h3 span em,
+.investment .message .content h3 span em,
+.investment .advantage .content h3 em
+{width: 25px;height: 34px;float: right;background: url('/themes/investment/images/icon.gif') no-repeat;position: absolute;top:0;}
+.investment .company .company_list .content p
+{padding: 10px 0;text-indent: 1.8em;line-height: 20px;background: #fff;}
+.investment .company .company_list .company_image
+{float: left;}
+.investment .company .company_image
+{width: 1200px;}
+.investment .company .company_list .company_image img
+{width: 211px;height: 170px;border: 1px solid #ccc;padding:1px;margin: 20px 8px;}
+.investment .description, 
+.investment .introduction,
+.investment .league,
+.investment .quote,
+.investment .message,
+.investment .advantage
+{margin: 0 0 0 30px;clear: both;overflow:hidden;}
+.investment .description .topbar,
+.investment .introduction .topbar,
+.investment .league .topbar,
+.investment .quote .topbar,
+.investment .message .topbar,
+.investment .advantage .topbar
+{padding: 3px 0;position: relative;z-index: 800;margin-bottom: 20px;overflow:hidden;clear: both;width: 1200px;}
+.investment .description .topbar  h3,
+.investment .introduction .topbar  h3,
+.investment .league .topbar  h3,
+.investment .quote .topbar  h3,
+.investment .message .topbar  h3,
+.investment .advantage .topbar  h3
+{width: 100%;margin-bottom: 20px;clear: both;display: block;overflow: hidden;}
+.investment .description .content h3 span i,
+.investment .introduction .content h3 span i,
+.investment .league .content h3 span i,
+.investment .quote .content h3 span i,
+.investment .message .content h3 span i,
+.investment .advantage .topbar  h3 span i
+{width: 28px;height: 38px;float: left;background: #fff url('/themes/investment/images/icon.gif') 0 -36px no-repeat;position: absolute;top: -2px;left: 0;}
+.investment .description .content h3 span,
+.investment .introduction .content h3 span,
+.investment .league .content h3 span,
+.investment .quote .content h3 span,
+.investment .message .content h3 span,
+.investment .advantage .content h3 span
+{padding-left:40px;}
+.investment .description .content ul
+{float:left;text-align: center;width: 240px;margin: 0;padding:0;}
+.investment .description .content ul li img
+{width:226px;}
+.investment .description .content ul li
+{border:1px solid #ccc;padding:6px;margin:0;display: inline-block;}
+.investment .description .content ul span
+{width: 100%;height: 40px;line-height: 40px;}
+.investment .introduction .description
+{height: 148px;margin: 0;background:#ededed;}
+.investment .introduction .description h3{width: 210px;height: 148px;float: left;background:#ededed url('/themes/investment/images/icon.gif') 0 100% no-repeat;}
+.investment .introduction .description .content
+{margin:20px 0 0 250px;text-shadow: 0px 1px 0px #fff;font-size: 14px;}
+.investment .introduction .image
+{margin-top: 15px;display: block;overflow: hidden;clear: both;}
+.investment .introduction .image ul li
+{float: left;position: relative;}
+.investment .introduction .image ul li em
+{width: 33px; height: 30px; float: right;position: absolute;top:50%;right: 5px;background:#fff url('/themes/investment/images/icon.gif') 0 -80px no-repeat;}
+.investment .introduction .image ul li img
+{width:266px;height: 190px;border: 1px solid #ccc;padding:1px;}
+.investment .league .content .description_train_image,
+.investment .league .content .description_generalize_image
+{float: left;width:1200px;}
+.investment .league .content .description_train_image h3,
+.investment .league .content .description_generalize_image h3
+{text-align: center;font-size: 26px;vertical-align:middle;line-height: 170px;width: 196px; background:#c81812 url('/themes/investment/images/icon.gif') -268px 100% no-repeat;height: 175px;float: right;}
+.investment .league .content .description_train_image
+{margin-bottom: 20px;}
+.investment .league .content .description_train_image img, 
+.investment .league .content .description_generalize_image img
+{width:186px;height: 161px;}
+.investment .league .content ul li
+{float: left;margin:0;width: auto!important;width:177px;padding:6px;border: 1px solid #ccc;}
+.investment .quote .content ul
+{overflow: hidden;margin-bottom: 15px;}
+.investment .quote .content ul li
+{color: #c81812;font-size: 24px;font-weight: 200;}
+.investment .quote .content ul p
+{color: #282828;font-size: 14px;font-weight: 200;}
+.investment .quote .content ul span
+{width: 68px;height: 68px;float: left;line-height: 68px;color:#fff;text-align: center; font-size: 18px; background: #FFF url('/themes/investment/images/icon.gif') -213px -325px no-repeat;}
+.investment .message .content h3 span i
+{background-position: -223px -560px;width: 35px;}
+.investment .message .call
+{margin: 50px 0 0 30px;font-size: 14px;line-height: 24px;width: 45%;float: left;}
+.investment .message .call label
+{width: 80px;text-align: right;font-weight: 700;float: left;}
+.investment .message .form
+{width:46%;float: left;}
+.investment .message .form .row
+{clear: both;margin-bottom: 5px;position: relative;z-index: 600;}
+.investment .message .form .row em{position: absolute;top: 4px;left: 300px!important;left:240px;z-index: 700;}
+.investment .message .form .row label
+{width:60px;float: left;text-align: right;height: 25px; line-height: 25px;padding-right: 5px;}
+.investment .message .form .row label span.required
+{color:red;line-height: 35px;}
+.investment .message .form .row .errorMessage
+{margin-left: 50px;color: red;}
+.investment .message .form .row input
+{height: 25px;}
+.investment .message .form .error input
+{background: #FEE;border-color: #C00;}
+.investment .message .form div.success input, 
+.investment .message .form div.success textarea, 
+.investment .message .form div.success select, 
+.investment .message .form input.success, 
+.investment .message .form textarea.success, 
+.investment .message .form select.success 
+{background: #E6EFC2;border-color: #C6D880;}
+.investment .message .form div.error input, 
+.investment .message .form div.error textarea, 
+.investment .message .form div.error select, 
+.investment .message .form input.error, div.form textarea.error, 
+.investment .message .form select.error 
+{background: #FEE;border-color: #C00;}
+.investment .message .form .Wdate
+{padding:1px;}
+.investment .message .form textArea{width: 226px;margin-left: 1px;overflow:hidden;}
+.investment .message .form .submit, .investment .message .form .reset
+{background: #b80202;color: #fff;border: 0;padding: 0px 20px 5px 20px;width: 60px;height: 30px;padding: 15px 0;line-height: 0px;}
+.investment .message .form .submit
+{margin-left: 90px;}
+.investment .message .form .reset
+{margin-left: 20px;}
+.investment .advantage .content .list{height: 133px;float: left;overflow: hidden;margin-bottom: 50px;}
+.investment .advantage .content .list h1{text-shadow: 1px 1px 1px #000;line-height: 133px;text-align: center;width:153px;height: 133px;float: left;background: #b5b5b5;font-size: 130px;color: #fff;font-weight: bold;}
+.investment .advantage .content .list h1 span{width: 11px;float: right;background:#fff url('/themes/investment/images/icon.gif') -34px 45px no-repeat;height: 100%;}
+.investment .advantage .content .list ul{float: left;width: 1010px;height: 133px;overflow: hidden;margin-left: 5px;}
+.investment .advantage .content .list ul h5{color: #c81812;font-size: 24px;font-weight: 200;}
+/*则栏滚动条*/
+.investment .showbox
+{display: none;background: url('/themes/investment/images/icon.gif') -148px -46px no-repeat;width:133px;height: 270px; top:270px; left:20px;position:absolute;visibility:visible;z-index:99999;}
+.investment .showbox ul
+{margin: 45px 0 45px 10px;width: 117px;font-size: 14px;}
+.investment .showbox ul li
+{padding: 0 0 5px 30px;background: url('/themes/investment/images/icon.gif') 12px -423px no-repeat}
+.investment .showbox p
+{position: absolute;top: 83%;left: 32%;padding-top: 18px;cursor: pointer;}
+
+
+.footer_x .bottom_right{ text-align:left;}

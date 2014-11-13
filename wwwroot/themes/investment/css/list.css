@@ -1,0 +1,45 @@
+
+.investment .warp{width:1230px; margin:0 auto; overflow:hidden; background:#fff; padding:0 10px;}
+.investment .warp .recommend {margin-bottom: 10px; zoom:1;width: 1230px;background: #fff;overflow: hidden;}
+.investment .warp .project_view .list-view{margin-bottom: 10px;}
+.investment .warp .recommend h3{color:#232b38;border-bottom: 5px solid #232b38;font-size: 24px;font-weight: bold;letter-spacing: -1px; text-align:left;}
+.investment .warp .recommend h3 span{float:right;color:#ccc; font-weight: 200;}
+.investment .warp .recommend ul li,
+.investment .warp .project_view .list-view ul li
+{margin: 10px 6px 0 0;float: left;background: #f2f2f2;width: 200px;padding:10px 20px;}
+.investment .warp .project_view .list-view ul li{margin:10px 6px 0 0; display:inline;}
+.investment .warp .recommend ul img,
+.investment .warp .project_view .list-view ul li
+{width: 200px;}
+.investment .warp .recommend ul li em
+{text-align: center;font-size: 14px;font-weight: bold;margin: 5px 0;float: left;width: 100%;}
+.investment .warp .recommend ul li p, 
+.investment .warp .recommend ul li em,
+.investment .warp .project_view .list-view ul li p,
+.investment .warp .project_view .list-view ul li em
+{width: 200px;}
+.investment .warp .project_view .list-view ul li p{ text-align:left;}
+.investment .warp .recommend ul li p a{float: right;color: #0d5b81;}
+.investment .warp .recommend ul li p.discription{height: 160px;overflow: hidden; text-align:left;}
+.investment .warp .project_view .list-view{border-top: 1px solid #ccc;border-bottom: 1px solid #ccc;background: #f3f3f3;float: left;width:1230px;}
+.investment .warp .project_view .list-view h3{margin-right: 10px; display:inline;width: 236px;float: left; position:relative;}
+
+.investment .warp .project_view .list-view h3 a{color: #0d5b81;font-weight: 200;float: right;position: absolute;top:30px; right: 15px;}
+.investment .warp .project_view .list-view h3 img{width:236px;border:0;}
+.investment .warp .project_view{ overflow:hidden;}
+/*.stick .wrap .wrap-right .login{margin-top:-5px;}*/
+
+#goTop{background: #e5e3e6;
+top: 270px;
+right: 0;
+position: fixed!important;
+position: absolute;
+visibility: visible;
+z-index: 99999;
+padding: 5px;
+display: block;
+clear: both;
+overflow: hidden;
+}
+.footer_x .x_top .pic_list li{margin:0 10px;}
+.footer_x .bottom_right{ text-align:left;}

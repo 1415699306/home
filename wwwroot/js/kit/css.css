@@ -1,0 +1,78 @@
+img {
+	border: 0;
+}
+h1, h2 {
+	text-align: center;
+	position: relative;
+}
+h1 {
+	color: #0092d3;
+}
+h2 {
+	color: #53bde8;
+}
+h3, h4, h5, h6 {
+	margin: 0;
+}
+ul, ol, li {
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	vertical-align: top;
+}
+li * {
+	vertical-align: middle;
+}
+a {
+	color: #7d7d7d;
+}
+a:hover {
+	color: #000;
+}
+.indent {
+	margin-left: 2em;
+}
+.footer {
+	text-align: right;
+	font-size: 12px;
+}
+h1 img {
+	vertical-align: middle;
+}
+.code {
+	margin-left: 2em;
+	background-color: #aaa;
+	border-radius: 5px;
+	padding: 5px;
+	font-size: 14px;
+	color: #fff;
+}
+
+.kitjs-waterfall-container {
+	position: relative;
+	min-width: 692px;
+	margin: 0 auto;
+}
+.kitjs-waterfall-container  .kitjs-waterfall {
+	position: absolute;
+	width: 193px;
+	padding: 14px;
+	background-color: white;
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+.kitjs-waterfall-container  .kitjs-waterfall .image {
+	position: relative;
+	display: block;
+	width: 190px;
+	overflow: hidden;
+	background-color: white;
+	border: 1px solid white;
+}
+.kitjs-waterfall-container  .kitjs-waterfall a {
+	text-decoration: none;
+	font-weight: bold;
+	color: #1389E5;
+	text-decoration: underline;
+	outline: none;
+}

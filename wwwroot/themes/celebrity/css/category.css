@@ -1,0 +1,10 @@
+.celebrity .left_content{width:1250px;clear: both;float: left;background: #fff;padding-bottom: 0!important;padding-bottom: 20px;}
+.celebrity .left_content, .celebrity .left_content .list, .celebrity .content_right{overflow: hidden; margin-bottom:20px;}
+.celebrity .left_content h3 em, .content_right .content h3 em{float: left; padding-left:20px;background: url(/images/bar.png) no-repeat;color: #fff;width: 140px;height: 38px;line-height: 38px;font-size: 16px;}
+.celebrity .left_content h3, .content_right .content h3 {background: url(/images/bar.png) 0 -52px repeat-x;height: 38px;width: 100%;}
+.celebrity .left_content .list{padding: 10px 2px 10px 3px!important;padding: 10px 5px 10px 0px;clear: both;}
+.celebrity .left_content .list ul.personlist{float: left;width:207px;background: #f1f1f1;margin: 10px 16px!important;margin:5px; padding: 5px;_margin: 10px 16px; display:inline;}
+.celebrity .left_content .list ul.personlist li img{border:1px solid #ccc;}
+.celebrity .left_content .list ul.personlist li{margin-left: 2px;}
+.celebrity .left_content .list ul.personlist p{text-align: center;font-size: 14px;}
+.celebrity_warp{ margin-bottom:20px;}

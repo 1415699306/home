@@ -1,0 +1,23 @@
+<?php
+define('ROOT_PATH',dirname(__DIR__));
+define('LIBRARY', ROOT_PATH.DIRECTORY_SEPARATOR.'library');
+define('CONFIG_PATH',ROOT_PATH.DIRECTORY_SEPARATOR.'config');
+define('YII_PATH',LIBRARY.DIRECTORY_SEPARATOR.'framework');
+define('BASE_PATH',ROOT_PATH.DIRECTORY_SEPARATOR.'application');
+define('BACK_PATH',ROOT_PATH.DIRECTORY_SEPARATOR.'backapp');
+define('WEB_PATH',ROOT_PATH.DIRECTORY_SEPARATOR.'wwwroot');
+define('RESOURCE_PATH', WEB_PATH.DIRECTORY_SEPARATOR.'resources');
+define('UPLOSD_PATH', ROOT_PATH.DIRECTORY_SEPARATOR.'wwwroot');
+define('QUANZI_URL','http://quanzi.lfeel.com/');
+define('RESOURCE','resources');
+define('HOME_URL','http://demo.home.com');
+define('THEME_PATH','webroot.themes');
+define('RESOURCE_URL', HOME_URL.DIRECTORY_SEPARATOR.'resources');
+define('API', WEB_PATH.DIRECTORY_SEPARATOR.'api');
+$yii=YII_PATH.DIRECTORY_SEPARATOR.'yiilite.php';
+$config=dirname(__FILE__).'/application/config/main.php';
+defined('YII_DEBUG') or define('YII_DEBUG',true);
+defined('YII_TRACE_LEVEL') or define('YII_TRACE_LEVEL',3);
+$config = BASE_PATH.DIRECTORY_SEPARATOR.'config'.DIRECTORY_SEPARATOR.'main.php';
+include($yii);
+Yii::createWebApplication($config)->run();

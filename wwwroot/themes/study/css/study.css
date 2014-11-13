@@ -1,0 +1,118 @@
+
+.main .left{float:left;width:925px;}
+.main .left .view{width:924px;overflow:hidden; clear:both; margin-bottom:20px;}
+.main .left .view ul{list-style-type:none;margin:0px;}
+.main .left .view ul li{float:left;}
+.main .left .course,.left .Travel,.left .ceoyuedu{width:924px;background:#fff; float:left; overflow:hidden; clear:both; margin-bottom:10px;}
+.main .left .course h1,.left .Travel h1,.left .ceoyuedu h1,.sidebar .rightDiv h1,.main .sidebar .content h3{height:38px;background:url(../image/s.gif) 0 -39px;}
+.main .left .course h1 em,.left .Travel h1 em,.left .ceoyuedu h1 em,.sidebar .rightDiv h1 em{height: 38px;float: right;line-height: 38px;font-family: "宋体"; padding-right:20px;}
+.main .left .course h1 em a,.left .Travel h1 em a,.left .ceoyuedu h1 em a,.sidebar .rightDiv h1 em a{ line-height:38px;}
+.main .left .course h1 span,.left .Travel h1 span,.left .ceoyuedu h1 span,.sidebar .rightDiv h1 span,.main .sidebar .content h3 em{width: 127px;height: 38px;background:url(../image/s.gif);font-size:18px;font-style: italic;color: #fff;display: block;line-height: 38px;padding-left: 10px;font-family: "微软雅黑";font-weight: normal;}
+.main .left .course .detail,.left .Travel .detail{ width:904px;padding:10px;overflow:hidden;}
+.main .left .course .detail ul.list li a.ceo,.left .Travel .detail ul.list li a.ceo{color:red;font-weight: bold;}
+.main .left .course .detail ul.list,.left .Travel .detail ul.list{float:left;width:440px;height:142px;background:url(../image/00.jpg) no-repeat; margin:5px; display:inline;}
+.main .left .course .detail ul.list li,.left .Travel .detail ul.list li{}
+.main .left .course .detail ul.list li a.img,.left .Travel .detail ul.list li a.img{float:left;margin: 8px 10px; display:inline;}
+.main .left .course .detail ul.list li a.img img,.left .Travel .detail ul.list li a.img img{display:block; width:176px;}
+.main .left .course .detail ul.list li h2,.left .Travel .detail ul.list li h2{font-size:16px;font-weight:bold;color:black;width: 210px;float: left;margin-top: 10px;}
+.main .left .course .detail ul.list  li p.discription,.left .Travel .detail ul.list li p.discription{width:230px;height:75px;float:left;margin-top:10px; overflow:hidden;}
+.main .left .ceoyuedu .ceoleft{float:left;width:420px;padding:0px 15px 0px 15px;border-right:1px dotted #999; margin:25px 0;}
+.main .left .ceoyuedu .ceoleft li{line-height:24px;font-size:14px;font-weight:100;color:black;margin-left:15px; height:24px;}
+.main .left .ceoyuedu .ceoleft li em,.main .sidebar .rightDiv .news ul.newslist li em{width: 0px;height: 0px;font-size: 0;border: 1px solid #444;display: inline-block;margin-right: 8px;margin-top: 12px;float: left;line-height: 0;}
+.main .sidebar{ float:right; width:310px; margin-left:15px;}
+.main .sidebar .rightDiv,.main .sidebar .content{width:100%;background:white;overflow: hidden; padding-bottom:10px;margin-bottom:10px;}
+.main .sidebar .content ul{ margin:10px;}
+.main .sidebar .rightDiv .pic{ margin:20px 0 10px 15px;}
+.main .sidebar .rightDiv .news{ width:281px; margin:0 auto;}
+.main .sidebar .rightDiv .news ul.newslist{ margin-left:15px;}
+.main .sidebar .rightDiv .news ul.newslist li{line-height:24px;margin-left:15px; height:24px;}
+.main .sidebar .rightDiv .member{width: 303px;margin-left: 7px;margin-top: 10px;margin: 0 auto;overflow: hidden;}
+.main .sidebar .rightDiv .member ul.person{width: 85px;height: auto;float: left;padding: 7px;}
+.main .sidebar .rightDiv .member ul.person p{text-align:center}
+.main .wrap{ width:1250px; margin:0 auto;}
+.main .wrap .column {margin-bottom:20px; padding:10px;background:#fff;overflow: hidden;}
+.main .wrap .column h1{color: #232b38;border-bottom: 5px solid #232b38;font-size: 24px;font-weight: bold;letter-spacing: -1px;padding: 10px;}
+.main .wrap .column h1 span{float: right;font-size: 25px;color: gray;}
+.main .wrap .column .content{overflow: hidden; padding-top:10px;}
+.main .wrap .column .content .left{width:900px;float:left;}
+.main .wrap .column .content .left .list{width:100%;float:left; padding:10px 0;border-bottom:1px solid #efefef;}
+.main .wrap .column .content .left .list .leftImg{ width:201px; height:184px; border:1px solid #efefef;float:left; margin-right:20px;}
+.main .wrap .column .content .left .list .article{float:left;width:500px;height:180px; overflow:hidden; margin-right:20px;}
+.main .wrap .column .content .left .list .articles{ width:auto;margin-right:0;}
+.main .wrap .column .content .left .list .article h3{font-size:14px;font-weight:bold;color:#444;margin-bottom:20px;}
+.main .wrap .column .content .left .list .article .article_l{ width:500px;color:#707070; overflow:hidden; padding:2px 0;}
+.main .wrap .column .content .left .list .article .article_l span.name{text-align:left;}
+.main .wrap .column .content .left .list .article .article_l span.text{ width:410px; overflow:hidden; line-height:18px;}
+.main .wrap .column .content .left .list .article .article_2{ width:660px;}
+.main .wrap .column .content .left .list .article .article_2 span.text{ width:auto;}
+.main .wrap .column .content .left .list .tip{width:133px; text-align:center; float:right;}
+.main .wrap .column .content .left .list .tip .shipmianf{font-size:14px;font-weight:bold;color:#F60; padding:20px 0;}
+.main .wrap .column .content .left .list .tip .damianf{font-size:24px; font-family:"微软雅黑";color:#F60;}
+.main .wrap .column .content .left .list .tip .numb{ margin:10px 0; height:18px; line-height:18px;color:#a9a9a9;}
+.main .wrap .column .content .left .list .tip .numb em{ font-style:normal; margin:0 10px; display:inline-block;}
+.main .wrap .column .content .left .list .tip .numb em i.one{float:left; padding-right:10px; width:15px; height:17px; background:url(../image/28.jpg) no-repeat; }
+.main .wrap .column .content .left .list .tip .numb em i.two{float:left; padding-right:10px;width:16px; height:18px; background:url(../image/29.jpg) no-repeat; }
+.main .wrap .column .content .right,.main .right{width:310px;float:left;margin-left:18px}
+.main .wrap .column .content .right .rightDiv,.main .right .rightDiv{width:100%;background:white;border:1px solid #efefef; clear:both; overflow:hidden; margin-bottom:20px;}
+.main .wrap .column .content .right .rightDiv h2,.main .right .rightDiv h2{ padding-left:10px;font-size: 16px;color:#242c3a;font-family:"微软雅黑";height:36px; line-height:36px;border-bottom: 1px solid #FEFEFE;background: url('../image/40.jpg') no-repeat;overflow: hidden;}
+.main .wrap .column .content .right .rightDiv .news,.main .right .rightDiv .news{ width:100%;}
+.main .wrap .column .content .right .rightDiv .news ul.newslist li,.main .right .rightDiv .news ul.newslist li{ padding:10px;border-bottom:1px solid #efefef;overflow: hidden;}
+.main .wrap .column .content .right .rightDiv .news ul.newslist li .newsImg,.main .right .rightDiv .news ul.newslist li .newsImg{float:left; width:98px; height:98px; margin-right:10px;}
+.main .wrap .column .content .right .rightDiv .news ul.newslist li .newsText,.main .right .rightDiv .news ul.newslist li .newsText{ float:left;width: 180px;height:98px;overflow: hidden;}
+.main .wrap .column .content .right .rightDiv .news ul.newslist li .newsText h3,.main .right .rightDiv .news ul.newslist li .newsText h3{font-size:14px;font-weight:bold;color:#444;}
+.main .wrap .column .content .right .rightDiv .news ul.newslist li .newsText p,.main .right .rightDiv .news ul.newslist li .newsText p{ line-height:18px;}
+.main .wrap .column .content .right .rightDiv .news .ktwo,.main .right .rightDiv .news .ktwo{padding: 10px;overflow: hidden;}
+.main .wrap .column .content .right .rightDiv .news .ktwo span,.main .right .rightDiv .news .ktwo span{float: left;width: 25px;height: 46px;font-size: 24px;text-align: center;background: #efefef;line-height: 46px;margin-right: 10px;}
+.main .wrap .column .content .right .rightDiv .news .ktwo .ktwocontent,.main .right .rightDiv .news .ktwo .ktwocontent{float:left; width:250px; overflow:hidden; height: 46px;}
+.main .wrap .column .content .right .rightDiv .news .ktwo .ktwocontent h3,.main .right .rightDiv .news .ktwo .ktwocontent h3{font-size: 14px;font-weight: bold;color: #444;padding:5px; overflow:hidden;}
+
+.main .right .rightDiv ul.lector{ float:left;}
+.main .wrap .column .content .right .rightDiv ul.lector li,.main .right .rightDiv ul.lector li {width: 85px;float: left;padding: 8px;}
+.main .wrap .column .content .right .rightDiv ul.lector li p,.main .right .rightDiv ul.lector li p{ text-align:center; margin-top:10px;}
+.main .wrap .column .content .right .viewtwo{width:315px; margin-bottom:20px;}
+.main .wrap .column .content .right .jiangshi{margin-top:20px;border:1px solid #efefef;overflow: hidden;}
+.main .wrap .column .content .right .jiangshi .jstitle{width:100%;height:36px;background:url('../image/40.jpg');overflow:hidden}
+.main .wrap .column .content .right .jiangshi .jstitle .jstz{font-size:16px;color:black;font-weight:bold;margin:10px 0px 10px 10px}
+.main .wrap .column .content .right .jiangshi .jsone{margin:15px 0px 15px 15px;float:left;padding: 8px 0;}
+.main .wrap .column .content .right .jiangshi .jsone .jsozi{margin:10px 0px 0px 0px;text-align: center;}
+
+
+
+
+.main .mainTop{width:100%; overflow:hidden;margin:30px 0;}
+.main .mainTop .leftVideo{width:400px;float:left;margin-left:80px;margin-right:30px}
+.main .mainTop .rightText,.main .mainTop .rightText .pastext{float:left;width:590px;}
+.main .mainTop .rightText h1{font-size: 26px;font-weight: bold;color:#202835;margin-bottom: 15px;}
+.main .mainTop .rightText p.description{ font-size:14px; color:#717171; line-height:30px; clear:both;}
+.main .mainTop .rightText p.description em.Tag{ width:55px; height:21px; background:url(../image/44.jpg) no-repeat; float:left; padding-right:10px;}
+.main .mainTop .rightText .pastext{ padding:10px 0;}
+.main .mainTop .rightText .pastext .Summary{ float:left;}
+.main .mainTop .rightText .pastext p{float: left;width: 500px; margin:0;}
+.main .mainTop .rightText input.jrfree{background-color: #F63;width: 220px;height: 37px;border-radius: 10px 10px 10px 10px;color: white;font-size: 18px;margin-bottom: 20px;cursor: pointer;}
+.main .mainTop .rightText .zywzfive{ clear:both;}
+.main .main_bottom{ width:100%; overflow:hidden; clear:both;}
+.main .main_bottom .main_left{width: 922px;float: left; background:#fff;}
+.main .main_bottom .main_left .mydzlone{clear: both;overflow: hidden;padding: 20px;width: 882px;}
+.main .main_bottom .right .nobor{ border:none;}
+.wrap_list dl.pic_list dd {
+width: 150px;
+padding: 5px 0;
+text-align: center;
+overflow: hidden;
+height:38px;}
+.wrap_list dl.pic_list dd a{ height:38px; overflow:hidden;}
+
+.new_bL {
+float: left;
+padding-left: 20px;}
+
+.wrap_list {
+clear: both;
+}
+.new_content
+{font-size: 14px;
+text-indent: 2em;}
+
+#msview{width:310px; margin-bottom: 20px;}
+#advertising{ margin:0;}
+

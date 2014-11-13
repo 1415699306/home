@@ -1,0 +1,44 @@
+.RightDiv .MainDiv{ width:987px;}
+.RightDiv .MainDiv .borline{ border-bottom:1px solid #ededed; padding-bottom:40px;}
+.MainDiv .bigDiv span.Preview {
+width: 100px;
+height: 30px;
+background: url(/themes/usercenter/images/public.jpg) no-repeat;
+background-position: 0 -300px;
+line-height: 30px;
+color: #fff;
+display: block;
+float: right;
+text-indent: 30px;
+cursor: pointer;
+margin-top: 20px;
+margin-left: 40px;
+}
+.MainDiv .bigDiv span.Preview a {
+color: #fff;
+line-height: 30px;
+}
+.RightDiv .MainDiv .bigDiv h3{color:#444; font-size:12px; line-height:30px; font-size:14px; padding:10px 0;}
+.RightDiv .MainDiv .bigDiv img {float: left;padding-right: 45px;}
+.RightDiv .MainDiv .bigDiv p{ color:#717171; height:24px; line-height:24px; font-size:14px; margin:0; padding:0;}
+.RightDiv .MainDiv .bigDiv p{ color: #444;font-size: 14px;font-style: normal;line-height: 40px;height: 40px;display: block;}
+.RightDiv .MainDiv .bigDiv p.title {color: #268abf;font-size: 18px;font-family: "微软雅黑";padding-bottom: 20px;}
+.RightDiv .MainDiv .bigDiv p.title  b{ color:#268abf;}
+.RightDiv .MainDiv .bigDiv p i {color: #268abf;font-style: normal;}
+.RightDiv .MainDiv .bigDiv p span{ color:#444;}
+.RightDiv .MainDiv .bigDiv .row{ margin:10px 0; overflow:hidden; width:100%;}
+.RightDiv .MainDiv .bigDiv .row label{ height:32px; line-height:32px; float:left; text-align:right; width:80px; margin-right:10px;}
+.RightDiv .MainDiv .bigDiv .row input {height: 25px;line-height: 25px;}
+.row span li{ float:left;}
+.RightDiv .MainDiv .bigDiv .row input.price{width: 107px;float: left; border:1px solid #e5e5e5; color:#000;}
+.RightDiv .MainDiv .bigDiv .row input.name{ width:259px; border:1px solid #e5e5e5; color:#000;}
+.RightDiv .MainDiv .bigDiv .row input.btn{width: 72px;background:url(/themes/usercenter/images/public.jpg) no-repeat;background-position: 0 0;color: #fff; border:none;}
+.RightDiv .MainDiv .bigDiv .row span.radio {padding-right: 10px; float:left;}
+.RightDiv .MainDiv .bigDiv .row span.text{height: 25px;line-height: 25px;float: left;padding-right:12px;}
+.RightDiv .MainDiv .bigDiv .buttom{ margin:20px 0;width: 434px; overflow:hidden;}
+.RightDiv .MainDiv .bigDiv .end input.save{width: 88px;height: 30px;background: url(/themes/usercenter/images/public.jpg) no-repeat;background-position: -22px -50px;border: none;cursor: pointer;margin-right: 17px;display: block;float: left;color:#707070;}
+.RightDiv .MainDiv .bigDiv .end input.next{width: 110px;height: 29px;background: url(/themes/usercenter/images/public.jpg) no-repeat;background-position: 0 -90px;border: none;cursor: pointer;display: block;color: #fff;float: left;}
+.RightDiv .MainDiv .bigDiv em{font-style: normal;padding-right: 20px;}
+.RightDiv .MainDiv .bigDiv .row span li input{float: left;}
+.RightDiv .MainDiv .bigDiv .row span li label{line-height: 28px;width: auto;}
+.errorMessage{line-height: 30px;background: url(/themes/usercenter/images/icons-e5243ebf3d910e3b0022fab1ffb63a97.png) no-repeat 65px; +background-position:0;height: 30px; text-indent:20px; margin-left:25px;}

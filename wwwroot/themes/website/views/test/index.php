@@ -1,0 +1,2 @@
+<?php $model = new Article();  $js = Yii::app()->getClientScript();
+    $js->registerCoreScript('jquery'); $this->widget('ext.widgets.cut.ICutThumbByOne',array('app_id'=>BaseApp::ADVERTISING,'model'=>$model,'folder'=>'advertising','ext'=>'thumb','thumb'=>!empty($model->thumbs->track_id) ? $model->thumbs->track_id : null));?>  

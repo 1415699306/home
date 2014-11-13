@@ -1,0 +1,79 @@
+.bigDiv .subButtom{ width:987px; margin-top:42px; overflow:hidden;}
+.bigDiv .subButtom .subButtom_left{ width:177px; height:129px; float:left;}
+.bigDiv .subButtom .subButtom_left a,.bigDiv .subButtom .subButtom_left a img{ border:none;}
+.bigDiv .subButtom .subButtom_right{ width:810px; overflow:hidden; float:left;}
+.bigDiv .subButtom .subButtom_right .sub_img{ width:449px; height:62px;}
+.bigDiv .subButtom .subButtom_right .sub_text{ overflow:hidden;}
+.bigDiv .subButtom .subButtom_right .sub_text span{ color:#3c3c3c; line-height:30px;}
+.bigDiv .subButtom .subButtom_right .sub_text a.textarea{ width:60px; height:20px; background:#d4e4f1; color:#267eac; line-height:20px; text-align:center; display:inline-block; float:left; margin-right:4px;}
+.bigDiv .content .listdiv .list .function{height: 72px; text-align:right;}
+.bigDiv .content .listdiv .list .function a{ display:inline-block;margin:10px 5px;width:56px; height:25px; background:url(/themes/usercenter/images/public.jpg) no-repeat; background-position:0 -331px; text-align:center; line-height:25px; color:#0d608b;}
+
+div.errorMessage{ clear:both;color:#000;margin-left:65px; background:url(/themes/usercenter/images/icons-e5243ebf3d910e3b0022fab1ffb63a97.png) 5px no-repeat; padding: 5px 0 5px 24px;}
+.RightDiv .MainDiv{ width:1000px; padding-right:20px;}
+.subpage{padding-top:20px;float:left; width:664px; _width:680px;}
+.subpage h3{color:#444; font-size:12px;}
+.subpage .row{margin:10px 0; color:#a0a0a0; overflow:hidden; width:664px;}
+.subpage .row input.btn{ width:88px; height:30px; line-height:30px; background:url(/themes/usercenter/images/public.jpg) no-repeat; background-position:-22px -50px; border:none; display:block; color:#444; cursor:pointer; float:left;margin-right:15px;}
+.subpage .description{height:508px; border:1px solid #e5e5e5; overflow:hidden; width:588px;}
+.row a{ width:48px; height:23px; line-height:23px; color:#0075a9; text-align:center; background:url(/themes/usercenter/images/public.jpg) no-repeat; background-position:-62px -24px; margin-right:11px; *margin-right:11px;float:left;}
+.row a.CheckedOn{ background:url(/themes/usercenter/images/public.jpg) no-repeat; background-position:-62px 0; }
+.row label{ width:70px; height:30px; line-height:30px;float:left;color:#444; text-align:left;}
+.row .ProjectName{ width:592px; _width:588px; height:28px; border:1px solid #e5e5e5; line-height:28px; color:#000;}
+.subpage .row input{ color:#a0a0a0;}
+.row p{ color:red; padding-left:70px; line-height:24px;}
+.row span{ height:30px; line-height:30px; color:#444;}
+.row .selected{ width:105px; height:24px; margin-right:12px;}
+.row .textarea_1{ width:592px; _width:588px;height:108px; color:#a0a0a0; border:1px solid #e5e5e5;}
+.row form .textarea_2{ width:588px; height:508px; color:#a0a0a0; border:1px solid #e5e5e5;}
+.description .content{width:578px; overflow:hidden; padding:5px;}
+.description .content strong{ font-size:16px; color:#444; font-weight:bold; line-height:50px;}
+.description .content p{ text-indent:2em; padding-left:0; color:#444;}
+.description .titile{ width:588px; height:40px; background:#e4e3e3; line-height:40px;}
+.description .titile a{ width:20px; height:17px; background:url(/themes/usercenter/images/public.jpg) no-repeat; display:block; float:left; margin:8px 10px 0 10px;}
+.description .titile a.pic_1{ background-position:0 0;}
+.description .titile a.pic_2{ background-position:0 -18px;}
+.description .titile a.pic_3{ background-position:0 -36px;}
+.description .titile a.pic_4{ background-position:0 -54px;}
+.description .titile a.pic_5{ background-position:0 -72px;}
+.RightDiv .MainDiv .row .price,.RightDiv .MainDiv .row .dateOn{ float:left; margin-right:10px;width:107px; height:28px; line-height:28px; border:1px solid #e5e5e5;}
+.buttom{margin:15px auto; width:434px; padding-left:230px;}
+.save{ width:88px; height:30px; background:url(/themes/usercenter/images/public.jpg); background-position:-22px -50px; background-repeat:no-repeat; border:none; cursor:pointer; margin-right:17px; display:block; float:left;}
+.next{ width:110px; height:29px; background:url(/themes/usercenter/images/public.jpg); background-position:0 -90px;background-repeat:no-repeat; border:none; cursor:pointer; display:block; color:#fff;}
+.rightfloat{float:right;}
+.content .listdiv{}
+.rightfloat .listdiv .listTop,.rightfloat .listdiv .listBottom,.content .listdiv .listTop,.content .listdiv .listBottom{width:290px; height:13px;background: url(/themes/usercenter/images/dream_26.jpg) no-repeat;}
+.rightfloat .listdiv .listBottom,.content .listdiv .listBottom{background: url(/themes/usercenter/images/dream_32.jpg) no-repeat;}
+.content .listdiv{padding: 0 9px;float: left;margin-top: 17px;width: 288px;display: inline;_margin-top: 8.5px;}
+.rightfloat .listdiv h2{ margin:0 auto;width:268px; line-height:20px;}
+.content .listdiv .list {width: 288px; overflow:hidden;border-left: 1px solid #c4c4c4;border-right: 1px solid #c4c4c4;overflow: hidden;}
+.rightfloat .listdiv .list .pic,.content .listdiv .list .pic{ position: relative;width: 288px; height:143px;margin: 0 auto;text-align: center; overflow:hidden;}
+.content .listdiv .list .pic{ font-size:0px;}
+.rightfloat .listdiv .list .pic{margin-bottom:10px;  width:265px; height:143px; line-height:143px; background:#e5e5e5;}
+.rightfloat .listdiv .list .pic img{ display:block; margin:0 auto;}
+.content .listdiv .pic span.float {position: absolute;top: 116px;right: 5px; padding:4px 3px;height: 19px;background: #38a3db;line-height: 19px;color: #fff;display: block;font-size: 12px;text-align: center;}
+.content .listdiv .list .text {width: 265px;margin: 0 auto;border-bottom: 1px solid #e7e6e4;padding-bottom: 10px;}
+.content .listdiv .list .text h2,.content .listdiv .list .text h2 a{ font-size:14px;line-height:30px;}
+.content .listdiv .list .text p,.rightfloat .listdiv .list .text p{ height:76px; overflow:hidden; line-height:19px;}
+.rightfloat .listdiv .list .text p{ width:265px; margin:0 auto;}
+.view-bar {width: 268px;height: 8px;background: #d5d5d5;border-radius: 20px;margin: 14px auto;}
+/*.speed{ width:11%;height:8px; background:#38a3db; border-radius:20px;}*/
+.rightfloat .listdiv .list{width: 288px;border-left: 1px solid #c4c4c4;border-right: 1px solid #c4c4c4;overflow: hidden;}
+.rightfloat .listdiv .list .textList,.content .listdiv .list .textList{width: 268px;margin: 14px auto;}
+.rightfloat .listdiv .list .textList ul.complete,.content .listdiv .list .textList ul.complete{float: left;width: 40%;text-align: left;}
+.rightfloat .listdiv .list .textList ul.support,.content .listdiv .list .textList ul.support{ float:left; width:40%;}
+.rightfloat .listdiv .list .textList ul.date,.content .listdiv .list .textList ul.date{ float:right; width:20%;}
+.rightfloat .listdiv .list .textList span,.content .listdiv .list .textList span {font-family: Arial;}
+.rightfloat .listdiv .list .textList ul li.f_size,.rightfloat .listdiv .list .textList ul li span.f_size,.content .listdiv .list .textList ul li.f_size,.content .listdiv .list .textList ul li span.f_size {font-size: 18px;color: #707070;font-family: Arial;}
+
+#total{float: left;font-size: 14px;color: red;line-height: 35px;padding: 0 10px;}
+#SWFUpload_0{border: 1px solid #000;padding: 5px 0;background: #ccc;color: white;float:left;}
+@media screen and (-webkit-min-device-pixel-ratio:0) {#SWFUpload_0{
+ height:20px;
+} } 
+.swfupload{ float:left;z-index: 500;}
+.edui-editor{width: 590px;float: right;}
+ *html {
+        background:url(/themes/usercenter/images/bg.jpg);
+        background-attachment: scroll;
+   }

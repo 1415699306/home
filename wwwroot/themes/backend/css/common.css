@@ -1,0 +1,38 @@
+*{font-family:"Microsoft YaHei",微软雅黑,"Microsoft JhengHei",华文细黑,STHeiti,MingLiu}
+.top_nav{position: absolute;top: 15px;left: 10px;font-size: 14px;font-weight: 200;text-shadow: 0px 1px 0px #e7e7e7;}
+.grid-view .button-column{width: 100px;}
+.grid-view table.items th{padding: 8px 0;}
+html{margin:0;padding:0;border:0;}
+a {text-decoration: none;}
+li{list-style: none;}
+ul, ol {margin:0;padding:0;}
+body {font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;overflow: auto;}
+.grid-view{padding: 0;}
+body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,code,del,dfn,em,img,q,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,dialog,figure,footer,header,hgroup,nav,section{margin:0;padding:0;border:0;font-size:12px;font:inherit;vertical-align:baseline;}
+div.row{padding:5px;line-height:24px;display: block;clear: both;overflow: hidden;}
+div.row label{float:left;text-align:right;padding-right:5px;font-size:12px;font-weight: bold;}
+div.row label .required{color:red;}
+div.row select{margin: 0 0 3px 0;padding: 0;height: 20px;}
+div.row input:hover, div.row input:focus{border-color: #09C;background: #F5F9FD;}
+#editor_id{width:75%;float: left;}
+div .button{border-top: 1px dotted #ccc;clear: both;overflow: hidden;display: block;margin:5px 0;}
+.submit, .row .action-create, .row a{border-radius: 5px;cursor: pointer;background:#F5F9FD url('/themes/backend/images/admincp/create.png') no-repeat; background-position: 5px; border: 1px solid #ccc;padding: 5px 15px;text-indent: 1.2em;}
+.row .action-create:hover{background: url('/themes/backend/images/admincp/create.png') no-repeat;background-position: 5px;}
+.row .errorMessage{display: block;overflow: hidden;clear: both;text-indent: 85px;color: red;font-size: 12px;}
+.row a{font-size: 14px;padding-left:25px;text-decoration: none;}
+.search-button{font-size: 14px;text-indent: 1.2em;border: 1px solid #ccc;padding:5px;border-radius: 5px;margin:0;display: block;width: 80px;text-align: center;background:#F5F9FD url('/themes/backend/images/admincp/view.png') no-repeat;background-position: 5px;}
+.search-form .button input{cursor: pointer;}
+.search-form span.error{color:red;font-size: 12px;}
+.search-form input.button{height: 28px;margin-right: 5px;line-height: 12px;float: left;font-size: 14px;text-indent: 1.2em;border: 1px solid #ccc;padding:5px;border-radius: 5px;margin:2px 0;display: block;width: 60px;text-align: center;background:url('/themes/backend/images/admincp/view.png') no-repeat;background-position:5px;}
+.search-form a.button{float: left;font-size: 14px;text-indent: 1.3em;border: 1px solid #ccc;padding: 3px 5px;border-radius: 5px;margin: 2px 5px;display: block;width: 58px;text-align: center;background: url('/themes/backend/images/admincp/ico.png') no-repeat;background-position: -1px -69px;}
+.inner{display: block;overflow: hidden;clear: both;background: #fff;border:5px solid #DEEFFA;margin: 15px 10px;padding:10px;border-radius: 5px;-webkit-box-shadow:0 0 8px rgba(0,0,0,0.3);-moz-box-shadow:0 0 8px rgba(0,0,0,0.3);box-shadow:0 0 8px rgba(0,0,0,0.3);}
+div.row label {float: left;text-align: right;padding-right: 5px;font-size: 12px;font-weight: bold;width: 80px;}
+.row label, .row span li label{line-height: 20px;}
+.row label, .row span li, .row span li input{float: left;}
+.row label{width: 80px;}
+.row li{list-style: none;}
+.row span li{width:80px;}
+.row span li label{width: auto;background: none;}
+.row span li label.big_label{width: 35px;background: none;}
+.row span li input{padding: 0; margin: 2px;}
+.row em{font-size: 12px;line-height: 20px;color: #ccc;}
