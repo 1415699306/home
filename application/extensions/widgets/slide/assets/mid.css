@@ -1,0 +1,11 @@
+/*首页中间banner图标签样式*/
+.banner{ width:580px; }
+.banner_shade{width: 580px;height: 90px;background:#2c3139;position: absolute;top: 264px;filter: alpha(Opacity=80);-moz-opacity: 0.5;opacity: 0.9;}
+.banner_shade h2{ color:#f0f0f0; font-size:26px; font-family:"微软雅黑"; padding:8px 0 8px 22px; *padding:6px 0 6px 22px;}
+.banner_shade p{color:#f0f0f0; font-size:14px;}
+.bannerBottom{ width:580px; height:96px;background:#e5e5e5;padding:8px 0; overflow:hidden;}
+.bannerBottom ul.bannerBottom_list{ width:580px; margin:0 auto; overflow:hidden; padding-left:6px;}
+.bannerBottom ul.bannerBottom_list li .pic_list{ width:130px; border:1px solid #efefef;  }
+.bannerBottom ul.bannerBottom_list li span.pic_text{ background:#40444b; width:130px; height:25px;line-height:25px; text-align:center; color:#f0f0f0; position:absolute;top:67px;left:6px;filter: alpha(Opacity=80);-moz-opacity: 0.5;opacity: 0.9;}
+.bannerBottom ul.bannerBottom_list li{ float:left; padding:0 5px;position:relative;}
+.bannerBottom ul.bannerBottom_list li span.on{ background:#af2e2e;}

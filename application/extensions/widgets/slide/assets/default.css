@@ -1,0 +1,11 @@
+.slideBox{ width:450px; height:230px; overflow:hidden; position:relative; border:1px solid #ddd;  }
+.slideBox .hd{ height:15px; overflow:hidden; position:absolute; right:5px; bottom:5px; z-index:1; }
+.slideBox .hd ul{ overflow:hidden; zoom:1; float:left;  }
+.slideBox .hd ul li{ float:left; margin-right:2px;  width:15px; height:15px; line-height:14px; text-align:center; background:#fff; cursor:pointer; }
+.slideBox .hd ul li.on{ background:#f00; color:#fff; }
+.slideBox .bd{ position:relative; height:100%; z-index:0;   }
+.slideBox .bd li{ zoom:1; vertical-align:middle; }
+.slideBox .bd img{ width:450px; height:230px; display:block;  }
+.slideBox span.left, .slideBox span.right{position: absolute;z-index: 999;top:100px;width: 46px;height: 127px;display: none;}
+.slideBox span.left{left:10px;background: url(slide_left.png) no-repeat;}
+.slideBox span.right{right: 10px;background: url(slide_right.png) no-repeat;}
