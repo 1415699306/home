@@ -1,0 +1,99 @@
+<style>
+*{margin:0; padding:0;}
+img{border:0;}
+
+.Pre-registration{ width:100%; height:57px;background:#e0dfdb url(../images/y_05.jpg) repeat-x; background-position:-332px 0; font-family:"微软雅黑", "宋体", Arial;margin-bottom: 20px; overflow:hidden;}
+a{ text-decoration:none;}
+.head {
+width: 1032px;
+margin: 0 auto;
+color: #242c3a;
+overflow: hidden;
+zoom:1;
+background:#e0dfdb url(../images/y_05.jpg) repeat-x;
+margin-bottom:20px;
+}
+.head .logo{ float:left; margin-right:32px;}
+.head .logo a{ width:318px; height:44px;padding-right:30px;}
+.logo h2{ width:318px; height:79px; background:url(../images/y_11.jpg)no-repeat; display:block;float:left; text-indent:-9999px; margin-top:32px;}
+headR {
+float: right;
+font-size: 16px;
+}
+.headR span{float:right; margin:0 auto; padding-right:10px;}
+.headR span a.hover{ background:#dc1414;}
+.headR span a {
+width: 88px;
+height: 47px;
+text-decoration: none;
+color: #fff;
+text-align: center;
+display: block;
+line-height: 47px;}
+.headR p{
+float: left;
+padding-right: 40px;}
+/*.headR span a:hover{width:129px; height:137px; float:right;}*/
+.main{ width:1032px; margin:0 auto; background:#fff; clear:both; border:1px solid #e7e7e7;}
+.main h1{font-size:18px; width:1012px; height:61px;  background-image:url(../images/y_17.jpg); background-repeat:repeat-x; line-height:61px;text-align: left; padding-left:20px; text-align: left;}
+.main h1 em{ width:36px; height:31px; background-image:url(../images/y_20.jpg); background-repeat:no-repeat; display:block; float:left; margin:15px;}
+.main p{line-height: 50px;}
+.main  i{ font-style:normal;font-size:12px; padding-right:10px; font-weight:normal; color:#999; height:28px; line-height:28px; vertical-align:middle;display:inline-block;}
+.yan{float:left; *float:none;}
+b{font-size:18px; display:block; color:#dc1414; /* text-align: left;*/ clear:both;padding-right: 650px;}
+.verify{ width:80px; height:40px; margin-left:10px; overflow:hidden; }
+.main .login{ width:922px; margin:0 auto; margin-left:70px;}
+.login .row{ padding:10px; text-align: left; margin-left:30px;/* height: 38px; line-height:38px;*/ clear:both;width: 600px;margin-left: 150px;}
+.btn{ width:343px;  border:0; margin:20px; /*text-align:center;*/padding-left: 150px; display:inline-block;} 
+.login label {width: 100px;height: 28px;line-height: 28px;font-weight: bold;font-style: normal;display: inline-block;font-size: 14px;color: #242c3a; text-align:right; padding-right:30px; float:left;}
+form{ /*width:700px;*/ margin:0 auto;}
+span.required{ color:red; line-height:28px; padding-right:5px; display:inline-block;}
+label.letter{ letter-spacing:4px;}
+.row .name,.row .company,.row .position,.row .tel,.row .number,.row .sername,.row .mail,.row .phone,.row .e-mail{ width:400px; height:28px; text-indent:2px; line-height:28px;}
+.row .sex_1{ padding-right:10px;}
+.row .sex_2{ padding-right:40px;}
+.industry {
+width: 300px;
+height: 28px;}
+.row input{ color:#626262;}
+.footer{clear: both;width: 100%;background: #fff;margin-top: 20px;}
+.footer .footer_list{
+background: #fff;text-align:center;overflow:hidden; padding:20px 0; width: 840px;margin: 0 auto;} 
+.footer .footer_list li{width: 117px;height: 50px; background-image:url(../images/footer.jpg); background-repeat:no-repeat;float:left; padding:0 10px 0 10px; list-style:none;}
+.footer .footer_list li.pic1{ background-position:-1px -102px;}
+.footer .footer_list li.pic2{ background-position:-1px -153px;}
+.footer .footer_list li.pic3{ background-position:-1px -207px;}
+.footer .footer_list li.pic4{ background-position:-1px -259px; }
+.footer .footer_list li.pic5{ background-position:-1px -310px;}
+.footer .footer_list li.pic6{ width:133px; height:49px;background-position:-1px -361px;}
+.footer p{ text-align:center;}
+.footer .link{ width:100%; margin:0 auto;}
+.footer .link a{text-decoration: none;color: #444;padding: 0 20px 0 20px;display: inline-block;font-size:12px;}
+
+#yw0{
+    float: left;
+    margin-top: 5px;
+}
+
+
+.user{position: absolute;margin: 10px 0 ;padding-left: 5px;height:50px;line-height: 10px;font-family:serif;font-style: italic;font-weight: bold;color:red;}
+.success{background:url(../images/register/chengg.png)no-repeat;}
+.verifyCode{
+    color:red;margin-top: 5px;
+}
+
+a.hide_display{ background: none repeat scroll 0 0 #DC1414;}
+a.show_display:hover{ background: none repeat scroll 0 0 #DC1414; }
+
+.loginButton{overflow: hidden;  clear: both;width: 343px; height:119px;font-size: 18px; background:url(../images/register/y_25.jpg) no-repeat; border:none; color:#eee; text-align:center; padding-bottom: 10px; font-family:"微软雅黑";margin-top: 30px;margin-bottom: 30px;cursor: pointer;}
+
+#yw0_button {
+    color: #333333;
+    float: right;
+    margin-left: 20px;
+}
+
+.errorMessage{
+    color:red;margin-top:14px;float:5px;
+}
+</style>
